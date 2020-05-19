@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: manifests/my-echo-6
-    repoURL: https://github.com/ribbybibby/argocd-testcase.git
+    repoURL: https://github.com/george-angel/argocd-testcase.git
     targetRevision: master
   syncPolicy:
     automated:
